@@ -3,6 +3,7 @@
 A modular collection of host monitoring scripts, hardware telemetry tools, and IoT device integrations built for Linux environments.
 
 Developed and iterated using Claude Code to provide lightweight, real-time desktop telemetry, power quality tracking, and automated device state management without heavy daemon overhead.
+![Desktop Telemetry & IoT Dashboard](widget.jpg)
 
 ---
 
